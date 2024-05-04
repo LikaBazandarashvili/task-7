@@ -2,10 +2,12 @@
   margin-top: 24px;
   margin-left: 99px;
   margin-right: 500px;
+  vertical-align: middle;
 }
 
 div {
   display: inline-block;
+  vertical-align: middle;
 }
 .div1 > h4 {
   color: #636060;
@@ -16,6 +18,8 @@ div {
   line-height: normal;
   display: inline-block;
   margin-left: 50px;
+  margin-top: 33px;
+  vertical-align: middle;
 }
 
 .div2 {
@@ -45,6 +49,7 @@ div {
   font-weight: 400;
   line-height: normal;
   margin-top: 31px;
+  margin-left: 146px;
 }
 
 .div4 > h4 {
@@ -141,9 +146,4 @@ div {
 .img2 {
   margin-left: 20px;
   margin-right: 20px;
-}
-
-.container {
-  width: 1200px;
-  margin: 0 auto;
 }
