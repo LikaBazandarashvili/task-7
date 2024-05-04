@@ -45,7 +45,6 @@ div {
   font-weight: 400;
   line-height: normal;
   margin-top: 31px;
-  margin-left: 146px;
 }
 
 .div4 > h4 {
@@ -94,6 +93,7 @@ div {
 .div6 {
   margin-left: 418px;
   margin-top: 56px;
+  margin-bottom: 140px;
 }
 
 .div5 > div > h5 {
@@ -138,7 +138,12 @@ div {
   line-height: normal;
 }
 
-.img2{
-  margin-left: 20px ;
-  margin-right: 20px ;
+.img2 {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
 }
